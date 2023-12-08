@@ -1,4 +1,4 @@
-# 𝜏 Tau
+# Tau 𝜏
 A powerful and versatile forge UI library
 Tau is a UI library for Minecraft Forge that simplifies the process of creating graphical user interfaces (GUIs). It provides a Flutter-like syntax for creating and customizing the appearance of UI elements, making it easy for developers to create attractive, responsive, and functional interfaces.
 
